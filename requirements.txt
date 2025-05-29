@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-doctr[torch]
+pdf2image
+openpyxl
+ics
