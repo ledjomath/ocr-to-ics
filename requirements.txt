@@ -4,3 +4,4 @@ python-doctr[torch]
 pdf2image
 openpyxl
 ics
+pandas
